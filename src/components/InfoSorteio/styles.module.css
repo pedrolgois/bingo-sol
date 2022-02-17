@@ -1,0 +1,25 @@
+.sorteio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.numeroWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8px;
+}
+
+.numeroSorteado {
+  background-color: #fff;
+  color: #1F4788;
+  font-size: 50px;
+  padding: 4rem;
+  border-radius: 1rem;
+}
+
+.textoSorteio {
+  text-align: center;
+  color: #1F4788;
+}
